@@ -1,0 +1,15 @@
+{
+    "columns": 18,
+    "image": "ui_elements.png",
+    "imageheight": 96,
+    "imagewidth": 288,
+    "margin": 0,
+    "name": "ui_elements",
+    "spacing": 0,
+    "tilecount": 108,
+    "tiledversion": "1.7.2",
+    "tileheight": 16,
+    "tilewidth": 16,
+    "type": "tileset",
+    "version": "1.6"
+}

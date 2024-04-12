@@ -1,0 +1,11 @@
+transformers==2.1.1
+torch==2.0.1
+numpy==1.26.4
+tqdm==4.66.2
+scikit-learn==1.4.1.post1
+future==1.0.0
+thulac==0.2.2
+aiohttp_cors==0.7.0
+keras==3.1.1
+tensorboard==2.16.2
+packaging==24.0

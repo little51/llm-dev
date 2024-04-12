@@ -1,0 +1,4 @@
+torch==2.0.1
+transformers==4.38.1
+accelerate==0.28.0
+pydub==0.25.1

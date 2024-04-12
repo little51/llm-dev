@@ -1,0 +1,7 @@
+torch==2.1.2
+tqdm==4.66.1
+transformers==4.37.1
+bs4==0.0.2
+sentencepiece==0.1.99
+sacremoses==0.1.1
+openai==1.10.0

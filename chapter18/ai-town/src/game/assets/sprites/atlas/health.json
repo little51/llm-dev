@@ -1,0 +1,82 @@
+{
+    "textures": [
+        {
+            "image": "health.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 42,
+                "h": 13
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "health_empty",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 1,
+                        "y": 2,
+                        "w": 14,
+                        "h": 13
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 14,
+                        "h": 13
+                    }
+                },
+                {
+                    "filename": "health_full",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 1,
+                        "y": 2,
+                        "w": 14,
+                        "h": 13
+                    },
+                    "frame": {
+                        "x": 14,
+                        "y": 0,
+                        "w": 14,
+                        "h": 13
+                    }
+                },
+                {
+                    "filename": "health_half",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 1,
+                        "y": 2,
+                        "w": 14,
+                        "h": 13
+                    },
+                    "frame": {
+                        "x": 28,
+                        "y": 0,
+                        "w": 14,
+                        "h": 13
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "http://github.com/odrick/free-tex-packer-core",
+        "version": "0.3.4"
+    }
+}

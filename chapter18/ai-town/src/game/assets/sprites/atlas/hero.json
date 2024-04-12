@@ -1,0 +1,607 @@
+{
+    "textures": [
+        {
+            "image": "hero.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 54,
+                "h": 353
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "hero_attack_down_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 5,
+                        "w": 17,
+                        "h": 27
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 17,
+                        "h": 27
+                    }
+                },
+                {
+                    "filename": "hero_attack_down_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 5,
+                        "w": 17,
+                        "h": 27
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 27,
+                        "w": 17,
+                        "h": 27
+                    }
+                },
+                {
+                    "filename": "hero_attack_left_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 3,
+                        "w": 21,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 54,
+                        "w": 21,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_right_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 3,
+                        "w": 20,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 17,
+                        "y": 0,
+                        "w": 20,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_left_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 3,
+                        "y": 3,
+                        "w": 18,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 17,
+                        "y": 25,
+                        "w": 18,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_left_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 3,
+                        "y": 3,
+                        "w": 18,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 79,
+                        "w": 18,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_down_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 5,
+                        "w": 17,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 104,
+                        "w": 17,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_idle_down_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 3,
+                        "w": 17,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 129,
+                        "w": 17,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_idle_up_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 3,
+                        "w": 17,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 154,
+                        "w": 17,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_right_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 3,
+                        "w": 16,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 179,
+                        "w": 16,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_right_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 3,
+                        "w": 15,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 204,
+                        "w": 15,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_right_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 3,
+                        "w": 15,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 229,
+                        "w": 15,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_left_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 3,
+                        "w": 14,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 254,
+                        "w": 14,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_idle_left_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 3,
+                        "w": 14,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 279,
+                        "w": 14,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_idle_right_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 3,
+                        "w": 14,
+                        "h": 25
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 304,
+                        "w": 14,
+                        "h": 25
+                    }
+                },
+                {
+                    "filename": "hero_attack_down_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 4,
+                        "w": 17,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 329,
+                        "w": 17,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_down_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 4,
+                        "w": 17,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 14,
+                        "y": 254,
+                        "w": 17,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_down_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 4,
+                        "w": 17,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 204,
+                        "w": 17,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_up_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 4,
+                        "w": 17,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 179,
+                        "w": 17,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_up_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 4,
+                        "w": 17,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 228,
+                        "w": 17,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_left_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 4,
+                        "w": 14,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 14,
+                        "y": 278,
+                        "w": 14,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_left_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 4,
+                        "w": 14,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 14,
+                        "y": 302,
+                        "w": 14,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_right_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 4,
+                        "w": 14,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 17,
+                        "y": 104,
+                        "w": 14,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_walking_right_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 4,
+                        "w": 14,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 18,
+                        "y": 79,
+                        "w": 14,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "hero_attack_up_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 5,
+                        "w": 18,
+                        "h": 23
+                    },
+                    "frame": {
+                        "x": 31,
+                        "y": 50,
+                        "w": 18,
+                        "h": 23
+                    }
+                },
+                {
+                    "filename": "hero_attack_up_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 5,
+                        "w": 18,
+                        "h": 23
+                    },
+                    "frame": {
+                        "x": 35,
+                        "y": 25,
+                        "w": 18,
+                        "h": 23
+                    }
+                },
+                {
+                    "filename": "hero_attack_up_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 6,
+                        "w": 17,
+                        "h": 23
+                    },
+                    "frame": {
+                        "x": 37,
+                        "y": 0,
+                        "w": 17,
+                        "h": 23
+                    }
+                },
+                {
+                    "filename": "hero_attack_up_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 6,
+                        "w": 17,
+                        "h": 23
+                    },
+                    "frame": {
+                        "x": 37,
+                        "y": 0,
+                        "w": 17,
+                        "h": 23
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "http://github.com/odrick/free-tex-packer-core",
+        "version": "0.3.4"
+    }
+}

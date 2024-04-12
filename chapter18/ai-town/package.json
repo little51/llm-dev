@@ -1,0 +1,50 @@
+{
+  "name": "ai-town",
+  "version": "0.3.5",
+  "homepage": "https://gitclone.com/ai-town/",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^8.0.0",
+    "grid-engine": "^2.42.1",
+    "openai": "^4.29.1",
+    "optimize-css-assets-webpack-plugin": "5.0.8",
+    "phaser": "^3.70.0",
+    "phaser3-rex-plugins": "^1.60.8",
+    "pnp-webpack-plugin": "1.7.0",
+    "postcss-loader": "^8.1.1",
+    "postcss-safe-parser": "5.0.2",
+    "react": "^18.2.0",
+    "react-dev-utils": "^11.0.4",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "test": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
+    "eject": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

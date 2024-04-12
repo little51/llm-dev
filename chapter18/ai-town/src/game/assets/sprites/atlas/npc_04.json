@@ -1,0 +1,607 @@
+{
+    "textures": [
+        {
+            "image": "npc_04.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 49,
+                "h": 290
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "npc_04_attack_down_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 8,
+                        "w": 16,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 16,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_down_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 8,
+                        "w": 16,
+                        "h": 24
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 24,
+                        "w": 16,
+                        "h": 24
+                    }
+                },
+                {
+                    "filename": "npc_04_idle_up_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 5,
+                        "w": 15,
+                        "h": 23
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 48,
+                        "w": 15,
+                        "h": 23
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_left_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 6,
+                        "w": 21,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 71,
+                        "w": 21,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_left_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 3,
+                        "y": 6,
+                        "w": 18,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 48,
+                        "w": 18,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_left_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 4,
+                        "y": 6,
+                        "w": 18,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 0,
+                        "w": 18,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_down_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 8,
+                        "w": 16,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 22,
+                        "w": 16,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_right_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 6,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 32,
+                        "y": 22,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_right_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 6,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 34,
+                        "y": 0,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_up_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 7,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 93,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_up_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 7,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 115,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_idle_down_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 6,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 137,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_up_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 6,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 159,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_up_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 6,
+                        "w": 15,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 181,
+                        "w": 15,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_left_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 6,
+                        "w": 13,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 203,
+                        "w": 13,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_idle_left_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 6,
+                        "w": 13,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 225,
+                        "w": 13,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_idle_right_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 6,
+                        "w": 13,
+                        "h": 22
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 247,
+                        "w": 13,
+                        "h": 22
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_right_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 7,
+                        "w": 20,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 269,
+                        "w": 20,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_up_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 7,
+                        "w": 17,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 13,
+                        "y": 203,
+                        "w": 17,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_down_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 7,
+                        "w": 16,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 13,
+                        "y": 224,
+                        "w": 16,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_right_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 7,
+                        "w": 16,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 13,
+                        "y": 245,
+                        "w": 16,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_down_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 7,
+                        "w": 15,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 93,
+                        "w": 15,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_down_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 7,
+                        "w": 15,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 21,
+                        "y": 70,
+                        "w": 15,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_left_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 7,
+                        "w": 13,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 33,
+                        "y": 44,
+                        "w": 13,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_left_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 7,
+                        "w": 13,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 114,
+                        "w": 13,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_right_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 7,
+                        "w": 13,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 135,
+                        "w": 13,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_walking_right_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 7,
+                        "w": 13,
+                        "h": 21
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 156,
+                        "w": 13,
+                        "h": 21
+                    }
+                },
+                {
+                    "filename": "npc_04_attack_up_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 8,
+                        "w": 17,
+                        "h": 20
+                    },
+                    "frame": {
+                        "x": 15,
+                        "y": 177,
+                        "w": 17,
+                        "h": 20
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "http://github.com/odrick/free-tex-packer-core",
+        "version": "0.3.4"
+    }
+}

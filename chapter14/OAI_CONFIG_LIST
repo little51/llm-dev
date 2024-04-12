@@ -1,0 +1,19 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "<your OpenAI API key here>"
+    },
+    {
+        "model": "<your Azure OpenAI deployment name>",
+        "api_key": "<your Azure OpenAI API key here>",
+        "base_url": "<your Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview"
+    },
+    {
+        "model": "ChatGLM3-6B",
+        "api_key": "EMPTY",
+        "base_url": "http://127.0.0.1:8000/v1",
+        "api_type": "open_ai"
+    }
+]

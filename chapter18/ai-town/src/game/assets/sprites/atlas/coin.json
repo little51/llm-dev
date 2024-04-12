@@ -1,0 +1,103 @@
+{
+    "textures": [
+        {
+            "image": "coin.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 11,
+                "h": 44
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "coin_idle_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 2,
+                        "y": 2,
+                        "w": 11,
+                        "h": 11
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 11,
+                        "h": 11
+                    }
+                },
+                {
+                    "filename": "coin_idle_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 2,
+                        "y": 2,
+                        "w": 10,
+                        "h": 11
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 11,
+                        "w": 10,
+                        "h": 11
+                    }
+                },
+                {
+                    "filename": "coin_idle_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 3,
+                        "y": 2,
+                        "w": 10,
+                        "h": 11
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 22,
+                        "w": 10,
+                        "h": 11
+                    }
+                },
+                {
+                    "filename": "coin_idle_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 16,
+                        "h": 16
+                    },
+                    "spriteSourceSize": {
+                        "x": 6,
+                        "y": 2,
+                        "w": 3,
+                        "h": 11
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 33,
+                        "w": 3,
+                        "h": 11
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "http://github.com/odrick/free-tex-packer-core",
+        "version": "0.3.4"
+    }
+}

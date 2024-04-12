@@ -1,0 +1,167 @@
+{
+    "columns": 6,
+    "image": "actions_tileset.png",
+    "imageheight": 64,
+    "imagewidth": 96,
+    "margin": 0,
+    "name": "actions_tileset",
+    "spacing": 0,
+    "tilecount": 24,
+    "tiledversion": "1.7.2",
+    "tileheight": 16,
+    "tiles": [
+        {
+            "id": 1,
+            "objectgroup": {
+                "draworder": "index",
+                "name": "",
+                "objects": [
+                    {
+                        "height": 4,
+                        "id": 1,
+                        "name": "",
+                        "rotation": 0,
+                        "type": "",
+                        "visible": true,
+                        "width": 16,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "opacity": 1,
+                "type": "objectgroup",
+                "visible": true,
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": 2,
+            "objectgroup": {
+                "draworder": "index",
+                "name": "",
+                "objects": [
+                    {
+                        "height": 4,
+                        "id": 1,
+                        "name": "",
+                        "rotation": 0,
+                        "type": "",
+                        "visible": true,
+                        "width": 16,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "opacity": 1,
+                "type": "objectgroup",
+                "visible": true,
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": 3,
+            "objectgroup": {
+                "draworder": "index",
+                "name": "",
+                "objects": [
+                    {
+                        "height": 4,
+                        "id": 1,
+                        "name": "",
+                        "rotation": 0,
+                        "type": "",
+                        "visible": true,
+                        "width": 16,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "opacity": 1,
+                "type": "objectgroup",
+                "visible": true,
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": 4,
+            "objectgroup": {
+                "draworder": "index",
+                "name": "",
+                "objects": [
+                    {
+                        "height": 4,
+                        "id": 1,
+                        "name": "",
+                        "rotation": 0,
+                        "type": "",
+                        "visible": true,
+                        "width": 16,
+                        "x": 0,
+                        "y": -0.00425920292059623
+                    }
+                ],
+                "opacity": 1,
+                "type": "objectgroup",
+                "visible": true,
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": 5,
+            "objectgroup": {
+                "draworder": "index",
+                "name": "",
+                "objects": [
+                    {
+                        "height": 4,
+                        "id": 1,
+                        "name": "",
+                        "rotation": 0,
+                        "type": "",
+                        "visible": true,
+                        "width": 16,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "opacity": 1,
+                "type": "objectgroup",
+                "visible": true,
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": 17,
+            "objectgroup": {
+                "draworder": "index",
+                "name": "",
+                "objects": [
+                    {
+                        "height": 5,
+                        "id": 1,
+                        "name": "",
+                        "rotation": 0,
+                        "type": "",
+                        "visible": true,
+                        "width": 16,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "opacity": 1,
+                "type": "objectgroup",
+                "visible": true,
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "tilewidth": 16,
+    "type": "tileset",
+    "version": "1.6"
+}

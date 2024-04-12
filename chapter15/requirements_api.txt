@@ -1,0 +1,4 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sse_starlette==2.0.0
+python-multipart==0.0.9

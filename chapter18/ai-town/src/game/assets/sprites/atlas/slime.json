@@ -1,0 +1,649 @@
+{
+    "textures": [
+        {
+            "image": "slime.png",
+            "format": "RGBA8888",
+            "size": {
+                "w": 138,
+                "h": 48
+            },
+            "scale": 1,
+            "frames": [
+                {
+                    "filename": "slime_attack_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 5,
+                        "y": 12,
+                        "w": 21,
+                        "h": 19
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 21,
+                        "h": 19
+                    }
+                },
+                {
+                    "filename": "slime_die_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 5,
+                        "y": 18,
+                        "w": 21,
+                        "h": 14
+                    },
+                    "frame": {
+                        "x": 21,
+                        "y": 0,
+                        "w": 21,
+                        "h": 14
+                    }
+                },
+                {
+                    "filename": "slime_attack_05",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 7,
+                        "y": 14,
+                        "w": 18,
+                        "h": 15
+                    },
+                    "frame": {
+                        "x": 42,
+                        "y": 0,
+                        "w": 18,
+                        "h": 15
+                    }
+                },
+                {
+                    "filename": "slime_die_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 8,
+                        "y": 20,
+                        "w": 18,
+                        "h": 12
+                    },
+                    "frame": {
+                        "x": 21,
+                        "y": 14,
+                        "w": 18,
+                        "h": 12
+                    }
+                },
+                {
+                    "filename": "slime_die_05",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 4,
+                        "y": 19,
+                        "w": 16,
+                        "h": 13
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 19,
+                        "w": 16,
+                        "h": 13
+                    }
+                },
+                {
+                    "filename": "slime_die_07",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 5,
+                        "y": 31,
+                        "w": 5,
+                        "h": 1
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 19,
+                        "w": 5,
+                        "h": 1
+                    }
+                },
+                {
+                    "filename": "slime_attack_06",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 17,
+                        "w": 15,
+                        "h": 13
+                    },
+                    "frame": {
+                        "x": 60,
+                        "y": 0,
+                        "w": 15,
+                        "h": 13
+                    }
+                },
+                {
+                    "filename": "slime_die_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 15,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 75,
+                        "y": 0,
+                        "w": 15,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_attack_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 17,
+                        "w": 14,
+                        "h": 13
+                    },
+                    "frame": {
+                        "x": 90,
+                        "y": 0,
+                        "w": 14,
+                        "h": 13
+                    }
+                },
+                {
+                    "filename": "slime_attack_07",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 21,
+                        "w": 14,
+                        "h": 10
+                    },
+                    "frame": {
+                        "x": 75,
+                        "y": 8,
+                        "w": 14,
+                        "h": 10
+                    }
+                },
+                {
+                    "filename": "slime_attack_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 25,
+                        "w": 14,
+                        "h": 7
+                    },
+                    "frame": {
+                        "x": 60,
+                        "y": 13,
+                        "w": 14,
+                        "h": 7
+                    }
+                },
+                {
+                    "filename": "slime_walking_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 24,
+                        "w": 13,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 39,
+                        "y": 15,
+                        "w": 13,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_damage_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 12,
+                        "y": 21,
+                        "w": 8,
+                        "h": 9
+                    },
+                    "frame": {
+                        "x": 52,
+                        "y": 15,
+                        "w": 8,
+                        "h": 9
+                    }
+                },
+                {
+                    "filename": "slime_damage_06",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 18,
+                        "w": 12,
+                        "h": 9
+                    },
+                    "frame": {
+                        "x": 39,
+                        "y": 23,
+                        "w": 12,
+                        "h": 9
+                    }
+                },
+                {
+                    "filename": "slime_attack_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 26,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_damage_07",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 11,
+                        "y": 21,
+                        "w": 10,
+                        "h": 9
+                    },
+                    "frame": {
+                        "x": 28,
+                        "y": 26,
+                        "w": 10,
+                        "h": 9
+                    }
+                },
+                {
+                    "filename": "slime_idle_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 32,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_walking_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 12,
+                        "y": 34,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_walking_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 40,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_damage_05",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 19,
+                        "w": 12,
+                        "h": 7
+                    },
+                    "frame": {
+                        "x": 104,
+                        "y": 0,
+                        "w": 12,
+                        "h": 7
+                    }
+                },
+                {
+                    "filename": "slime_die_06",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 4,
+                        "y": 29,
+                        "w": 12,
+                        "h": 3
+                    },
+                    "frame": {
+                        "x": 116,
+                        "y": 0,
+                        "w": 12,
+                        "h": 3
+                    }
+                },
+                {
+                    "filename": "slime_idle_03",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 11,
+                        "y": 23,
+                        "w": 10,
+                        "h": 9
+                    },
+                    "frame": {
+                        "x": 128,
+                        "y": 0,
+                        "w": 10,
+                        "h": 9
+                    }
+                },
+                {
+                    "filename": "slime_damage_04",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 11,
+                        "y": 20,
+                        "w": 10,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 116,
+                        "y": 3,
+                        "w": 10,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_damage_08",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 11,
+                        "y": 23,
+                        "w": 10,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 104,
+                        "y": 7,
+                        "w": 10,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_damage_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 26,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_die_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 26,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_idle_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 26,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_walking_01",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 10,
+                        "y": 24,
+                        "w": 12,
+                        "h": 8
+                    },
+                    "frame": {
+                        "x": 16,
+                        "y": 26,
+                        "w": 12,
+                        "h": 8
+                    }
+                },
+                {
+                    "filename": "slime_damage_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 25,
+                        "w": 14,
+                        "h": 7
+                    },
+                    "frame": {
+                        "x": 60,
+                        "y": 13,
+                        "w": 14,
+                        "h": 7
+                    }
+                },
+                {
+                    "filename": "slime_idle_02",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 32,
+                        "h": 32
+                    },
+                    "spriteSourceSize": {
+                        "x": 9,
+                        "y": 25,
+                        "w": 14,
+                        "h": 7
+                    },
+                    "frame": {
+                        "x": 60,
+                        "y": 13,
+                        "w": 14,
+                        "h": 7
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "http://github.com/odrick/free-tex-packer-core",
+        "version": "0.3.4"
+    }
+}
