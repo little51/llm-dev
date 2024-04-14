@@ -8,8 +8,8 @@
 
 ```bash
 1、安装最新版的node.js
-2、git clone https://github.com/git-cloner/ai-town
-3、cd ai-town
+2、git clone https://github.com/little51/llm-dev
+3、cd chapter18/ai-town
 4、npm i
 ```
 
