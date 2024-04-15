@@ -1,4 +1,4 @@
-# Agent应用
+# 智能代码应用
 
 ## 一、docker安装
 
@@ -39,5 +39,19 @@ conda activate autogen
 pip install pyautogen==0.2.15  \
 -i https://pypi.mirrors.ustc.edu.cn/simple \
 --trusted-host=pypi.mirrors.ustc.edu.cn
+```
+
+## 三、运行环境验证
+
+```bash
+conda activate autogen
+python autogen-with-docker.py
+```
+
+## 四、多Agent会话
+
+```bash
+conda activate autogen
+python agent-group.py
 ```
 
