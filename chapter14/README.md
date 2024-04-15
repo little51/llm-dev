@@ -31,7 +31,7 @@ newgrp - docker
 docker run hello-world
 ```
 
-## 二、环境安装
+## 二、虚拟环境安装
 
 ```bash
 conda create -n autogen python=3.10
