@@ -1,4 +1,4 @@
-# stable-diffusion
+# 多模态模型应用
 
 ## 一、代码获取
 

@@ -35,9 +35,9 @@ class SelfAttention(torch.nn.Module):
 
 ## 二、用GPT3.5生成的多头注意力代码示例
 
-**Question:**用python写一段多头注意力实现代码
+**Question:** 用python写一段多头注意力实现代码
 
-### Answer（tensorflow版本）: 
+### Answer（Tensorflow版本）: 
 
 以下是一个简单的多头注意力实现代码示例，使用Python编写：
 
@@ -81,7 +81,7 @@ print(output.shape)
 
 这段代码实现了一个简单的多头注意力机制，可以根据需要调整输入数据的维度和参数设置。
 
-### Answer（torch版本）: 
+### Answer（PyTorch版本）: 
 
 以下是一个使用PyTorch编写的多头注意力实现代码示例：
 
