@@ -2,11 +2,11 @@
 
 ## 基础篇
 
-### 第1章大语言模型的基础知识
+### [第1章大语言模型的基础知识](https://github.com/little51/llm-dev/tree/main/chapter01)
 
 ### [第2章大语言模型应用架构](https://github.com/little51/llm-dev/tree/main/chapter02)
 
-### [第3章大语言模型应用工作模式](https://github.com/little51/llm-dev/tree/main/chapter02)
+### [第3章大语言模型应用工作模式](https://github.com/little51/llm-dev/tree/main/chapter03)
 
 ## 操作篇
 
