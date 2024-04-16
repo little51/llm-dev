@@ -1,4 +1,4 @@
-# AI小镇
+# AI小镇应用
 
 基于国产模型的AI小镇，使用react、phaser3、grid-engine、chatglm6b等开发。
 
