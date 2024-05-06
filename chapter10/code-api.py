@@ -10,12 +10,6 @@ from typing import Any, Dict, List, Literal, Optional, Union
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig, StoppingCriteria, StoppingCriteriaList
 from sse_starlette.sse import ServerSentEvent, EventSourceResponse
 
-if torch.cuda.is_available():
-    device = torch.device(0)
-else:
-    device = torch.device('cpu')
-
-
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     yield
