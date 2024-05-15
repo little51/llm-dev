@@ -44,7 +44,9 @@ sudo reboot
 # 验证是否禁用了nouveau，显示为空说明成功禁用
 lsmod | grep nouveau 
 # 4、关闭显示服务
+# ubuntu和rhel
 sudo telinit 3
+# 仅ubuntu
 sudo service gdm3 stop
 # 5、下载驱动
 wget https://us.download.nvidia.cn/XFree86/Linux-x86_64/525.85.05/NVIDIA-Linux-x86_64-525.85.05.run

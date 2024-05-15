@@ -71,6 +71,11 @@ python -c "import torch; print(torch.cuda.is_available())"
 # 4、使用源码安装llama-recipes模块
 pip install -e . -i https://pypi.mirrors.ustc.edu.cn/simple \
 --trusted-host=pypi.mirrors.ustc.edu.cn
+# peft >= v0.10.0 微调时会报以下错误：cannot import name \
+# prepare_model_for_int8_training' from 'peft'  （prepare_model_for_int8_training方法在peft V0.10.0中被删除了）
+# 需要降低peft到v0.9.0
+pip install peft==0.9.0 -i https://pypi.mirrors.ustc.edu.cn/simple \
+--trusted-host=pypi.mirrors.ustc.edu.cn
 # 5、下载模型
 # 模型下载脚本从aliendao.cn首页下载
 # 链接为 https://aliendao.cn/model_download.py
