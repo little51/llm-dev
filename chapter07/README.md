@@ -35,7 +35,7 @@ pip install tiktoken -i https://pypi.mirrors.ustc.edu.cn/simple --trusted-host=p
 ### 5、下载模型
 
 ```shell
-# 从aliendao.cn下载Qwen/Qwen-1_8B 模型文件
+# 从aliendao.cn下载Qwen/Qwen-1.8B 模型文件
 wget https://aliendao.cn/model_download.py
 python model_download.py --e --repo_id Qwen/Qwen-1_8B --token YPY8KHDQ2NAHQ2SG
 # 下载后的文件在dataroot/models/Qwen/Qwen-1_8B 目录下

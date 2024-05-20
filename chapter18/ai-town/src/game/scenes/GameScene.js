@@ -174,7 +174,7 @@ export default class GameScene extends Scene {
                 });
         };
         window.addEventListener('chatHistory', chatHistoryEventListener);
-        // 装载地图
+        // 加载地图
         const map = this.make.tilemap({ key: mapKey });
         const tileset = map.addTilesetImage('town', 'town');
 
@@ -223,7 +223,7 @@ export default class GameScene extends Scene {
             { x: 0.5, y: 0.5 }
         );
 
-        // 装载地图图层
+        // 加载地图图层
         const elementsLayers = this.add.group();
         for (let i = 0; i < map.layers.length; i++) {
             const layer = map.createLayer(i, tileset, 0, 0);
