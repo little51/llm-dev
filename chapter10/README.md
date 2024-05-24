@@ -34,6 +34,6 @@ python model_download.py --e --repo_id stabilityai/stable-code-3b --token YPY8KH
 ## 四、运行服务
 
 ```shell
-python code_api.py
+python code-api.py
 ```
 
