@@ -27,7 +27,7 @@ def convert_data_conversations(original_data, trainfile, devfile):
             ]
         }
         i = i + 1
-        if train_data_len < i:
+        if i < train_data_len:
             output_train.append(conversation)
         else:
             dev_train.append(conversation)
