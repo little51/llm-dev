@@ -1,5 +1,9 @@
 # 大模型项目实战：多领域智能应用开发配套资源
 
+[图书官方直营：https://item.jd.com/14810472.html](https://item.jd.com/14810472.html)
+
+![图书](https://gitclone.com/download1/llm-dev/llm-dev.png)
+
 ## 基础篇
 
 ### [第1章大语言模型的基础知识](https://github.com/little51/llm-dev/tree/main/chapter01)
@@ -41,3 +45,5 @@
 ### [第17章 模型训练应用](https://github.com/little51/llm-dev/tree/main/chapter17)
 
 ### [第18章 AI小镇应用](https://github.com/little51/llm-dev/tree/main/chapter18)
+
+![网店链接](https://gitclone.com/download1/llm-dev/qr-code.png)
