@@ -46,4 +46,8 @@
 
 ### [第18章 AI小镇应用](https://github.com/little51/llm-dev/tree/main/chapter18)
 
+
+
+[图书官方直营：https://item.jd.com/14810472.html](https://item.jd.com/14810472.html)
+
 ![网店链接](https://gitclone.com/download1/llm-dev/qr-code.png)
