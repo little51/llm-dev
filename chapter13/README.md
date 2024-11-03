@@ -1,6 +1,6 @@
-# 翻译模型应用
+# 第13章 翻译模型应用
 
-## 1、安装
+## 一、安装
 
 ```bash
 conda create -n pdftrans python=3.10 -y
@@ -19,13 +19,13 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu117
 ```
 
-## 2、下载英译中模型
+## 二、下载英译中模型
 
 ```shell
 python model_download.py --e --repo_id Helsinki-NLP/opus-mt-en-zh --token YPY8KHDQ2NAHQ2SG
 ```
 
-## 3、测试
+## 三、测试
 
 ```shell
 conda activate pdftrans 

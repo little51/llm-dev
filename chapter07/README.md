@@ -1,4 +1,4 @@
-# 大语言模型量化
+# 第7章 大语言模型量化
 
 ## 一、llama.cpp量化
 
@@ -21,7 +21,7 @@ cd llama.cpp
 make -j 4
 ```
 
-#### 4、建立python环境
+### 4、建立python环境
 
 ```shell
 conda create -n llama.cpp python=3.10 -y

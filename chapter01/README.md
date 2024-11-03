@@ -1,4 +1,4 @@
-# 大语言模型的基础知识
+# 第1章 大语言模型的基础知识
 
 ##  一、用GPT3.5生成的自注意力代码示例
 
@@ -37,7 +37,7 @@ class SelfAttention(torch.nn.Module):
 
 **Question:** 用python写一段多头注意力实现代码
 
-### Answer（Tensorflow版本）: 
+### 1、Answer（Tensorflow版本）: 
 
 以下是一个简单的多头注意力实现代码示例，使用Python编写：
 
@@ -81,7 +81,7 @@ print(output.shape)
 
 这段代码实现了一个简单的多头注意力机制，可以根据需要调整输入数据的维度和参数设置。
 
-### Answer（PyTorch版本）: 
+### 2、Answer（PyTorch版本）: 
 
 以下是一个使用PyTorch编写的多头注意力实现代码示例：
 
