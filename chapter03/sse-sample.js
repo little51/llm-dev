@@ -1,4 +1,5 @@
 async function chat_stream(prompt) {
+  //将用户的问题加到会话历史中
   message_history.push({ role: 'user', content: prompt });
   const stream = openai.beta.chat.completions.stream({
     model: '模型名称',
@@ -12,5 +13,6 @@ async function chat_stream(prompt) {
     snapshot = snapshot + content;
     //更新界面显示
   }
+  //将LLM的回答加到会话历史中
   message_history.push({ "role": "assistant", "content": snapshot });
 }
