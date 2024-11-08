@@ -53,3 +53,14 @@
 [图书官方直营：https://item.jd.com/14810472.html](https://item.jd.com/14810472.html)
 
 ![网店链接](https://gitclone.com/download1/llm-dev/qr-code.png)
+
+## 作者其他资源或网站链接
+
+[github缓存加速网站：https://gitclone.com/](https://gitclone.com/)
+
+[huggingface模型下载网站：https://aliendao.cn/](https://aliendao.cn/)
+
+[GLM4和LLama3微调：https://github.com/git-cloner/ai-course](https://github.com/git-cloner/ai-course)
+
+[LLama3工具全家桶：https://github.com/little51/llama3-tools](https://github.com/little51/llama3-tools)
+
