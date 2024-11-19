@@ -60,6 +60,8 @@
 
 [huggingface模型下载网站：https://aliendao.cn/](https://aliendao.cn/)
 
+[一键体验多个AI Agent应用：https://gitclone.com/aiit/agenthub/](https://gitclone.com/aiit/agenthub/)
+
 [GLM4和LLama3微调：https://github.com/git-cloner/ai-course](https://github.com/git-cloner/ai-course)
 
 [LLama3工具全家桶：https://github.com/little51/llama3-tools](https://github.com/little51/llama3-tools)
