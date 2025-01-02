@@ -5,3 +5,5 @@ bs4==0.0.2
 sentencepiece==0.1.99
 sacremoses==0.1.1
 openai==1.10.0
+numpy==1.26.4
+httpx==0.27.2

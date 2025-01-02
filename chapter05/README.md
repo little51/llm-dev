@@ -12,8 +12,13 @@ conda create -n ChatGLM3 python=3.10 -y
 conda activate ChatGLM3
 # 安装依赖库
 pip install -r requirements.txt  \
--i https://pypi.mirrors.ustc.edu.cn/simple \
---trusted-host=pypi.mirrors.ustc.edu.cn
+-i https://pypi.mirrors.ustc.edu.cn/simple
+# 降级Transformers
+pip install transformers==4.38.1 \
+-i https://pypi.mirrors.ustc.edu.cn/simple
+# 降级sentence_transformers
+pip install sentence_transformers==2.4.0  \
+-i https://pypi.mirrors.ustc.edu.cn/simple
 # 校验PyTorch
 python -c "import torch; print(torch.cuda.is_available())"
 # 下载模型
@@ -49,6 +54,12 @@ pip install -r ./dataroot/models/Qwen/Qwen-VL-Chat-Int4/requirements.txt  \
 pip install optimum gekko \
 -i https://pypi.mirrors.ustc.edu.cn/simple \
 --trusted-host=pypi.mirrors.ustc.edu.cn
+# 降级Transformers
+pip install transformers==4.38.1 \
+-i https://pypi.mirrors.ustc.edu.cn/simple
+# 降级sentence_transformers
+pip install sentence_transformers==2.4.0  \
+-i https://pypi.mirrors.ustc.edu.cn/simple
 # 校验PyTorch
 python -c "import torch; print(torch.cuda.is_available())"
 # PyTorch in CUDA 11.7

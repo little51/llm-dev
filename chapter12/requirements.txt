@@ -1,3 +1,4 @@
+torch==2.1.0
 langchain==0.1.6
 langchain-community==0.0.19
 unstructured==0.11.8
@@ -9,4 +10,6 @@ openai==1.6.1
 langchain_openai==0.0.2
 chromadb==0.4.22
 sentence_transformers==2.2.2
-gradio==4.13.0
+gradio==5.9.1
+httpx==0.27.2
+huggingface_hub==0.25.2
