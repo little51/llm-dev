@@ -36,14 +36,7 @@ git checkout cd4c046
 ```bash
 # 使用conda安装ffmpeg，注意不是pip，因为ffmpeg是在操作系统上调用，不是在python环境里
 conda install ffmpeg -y
-# 从官方镜像安装其他依赖库，其他镜像不全
-# 查看镜像配置，删除掉镜像配置文件
-pip config list -v
-# linux
-sudo find / -name pip.conf
-# windows 
-C:\Users\用户名\AppData\Roaming\pip\pip.conf
-# 使用阿里云镜像
+# 安装其他依赖库
 pip install -r requirements.txt --use-pep517 -i https://mirrors.aliyun.com/pypi/simple/
 ```
 
@@ -102,9 +95,9 @@ pip install gradio==3.50.2 -i https://pypi.mirrors.ustc.edu.cn/simple --trusted-
 ```bash
 # （1）从github下载
 bash scripts/download_models.sh
-# 从aliendao下载
+# （2）从aliendao下载
 sudo apt install unzip
-# （2）下载sadtalker
+# 下载sadtalker
 wget http://61.133.217.142:20800/download/models/sadtalker/sadtalker.zip
 mkdir -p checkpoints/
 unzip sadtalker.zip -d checkpoints/
