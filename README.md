@@ -2,6 +2,8 @@
 
 ## 书中的源代码、操作步骤等配套资源
 
+作者的新书《大模型项目实战：Agent开发与应用》也开始销售，配套资源在https://github.com/little51/agent-dev
+
 [图书出版社官方直营：https://item.jd.com/14810472.html](https://item.jd.com/14810472.html)
 
 ![图书](https://gitclone.com/download1/llm-dev/llm-dev.png)
