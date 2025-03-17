@@ -8,7 +8,11 @@
 
 ![图书](https://gitclone.com/download1/llm-dev/llm-dev.png)
 
-[勘误](https://github.com/little51/llm-dev/issues)
+## [勘误](https://github.com/little51/llm-dev/issues)
+
+## 图书交流群：
+
+![](https://gitclone.com/download1/aliendao/aliendao.jpg)
 
 ## 一、基础篇
 
