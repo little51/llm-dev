@@ -10,9 +10,9 @@
 
 ## [勘误](https://github.com/little51/llm-dev/issues)
 
-## 图书交流群：
+## 图书技术交流群
 
-![](https://gitclone.com/download1/aliendao/aliendao.jpg)
+![](https://gitclone.com/download1/aliendao/aliendao1.jpg)
 
 ## 一、基础篇
 
@@ -61,6 +61,8 @@
 [图书官方直营：https://item.jd.com/14810472.html](https://item.jd.com/14810472.html)
 
 ![网店链接](https://gitclone.com/download1/llm-dev/qr-code.png)
+
+
 
 ## 作者其他资源或网站链接
 
