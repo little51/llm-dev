@@ -10,7 +10,7 @@
 
 ## [勘误](https://github.com/little51/llm-dev/issues)
 
-## 图书技术交流群
+## 本书技术交流群
 
 ![](https://gitclone.com/download1/aliendao/aliendao1.jpg)
 
