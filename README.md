@@ -12,7 +12,7 @@
 
 ## 本书技术交流群
 
-![](https://gitclone.com/download1/aliendao/aliendao1.jpg)
+![](https://gitclone.com/download1/aliendao/aliendao0.jpg)
 
 ## 一、基础篇
 
