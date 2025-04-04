@@ -14,6 +14,8 @@
 
 ![](https://gitclone.com/download1/aliendao/aliendao20250402.jpg)
 
+![](https://gitclone.com/download1/aliendao/weixin-aliendao.jpg)
+
 ## 一、基础篇
 
 ### [第1章大语言模型的基础知识](https://github.com/little51/llm-dev/tree/main/chapter01)
