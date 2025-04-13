@@ -14,7 +14,7 @@
 
 ![](https://gitclone.com/download1/aliendao/aliendao20250409.jpg)
 
-![](https://gitclone.com/download1/aliendao/weixin-aliendao1.jpg)
+![](https://gitclone.com/download1/aliendao/weixin-aliendao2.jpg)
 
 ## 一、基础篇
 
