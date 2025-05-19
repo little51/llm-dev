@@ -12,7 +12,7 @@
 
 ## 本书技术交流群
 
-![](https://gitclone.com/download1/aliendao/aliendao20250511.jpg)
+![](https://gitclone.com/download1/aliendao/aliendao20250519.jpg)
 
 ![](https://gitclone.com/download1/aliendao/weixin-aliendao2.jpg)
 
