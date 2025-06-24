@@ -8,11 +8,11 @@
 
 ![图书](https://gitclone.com/download1/llm-dev/llm-dev.png)
 
-## [勘误](https://github.com/little51/llm-dev/issues)
+#### 由于一些依赖库的版本持续升级，配套资源运行时可能会出现问题，如果不能正常工作，请关注[勘误](https://github.com/little51/llm-dev/issues)
 
 ## 本书技术交流群
 
-![](https://gitclone.com/download1/aliendao/aliendao20250617.jpg)
+![](https://gitclone.com/download1/aliendao/aliendao20250624.jpg)
 
 ![](https://gitclone.com/download1/aliendao/weixin-aliendao2.jpg)
 
