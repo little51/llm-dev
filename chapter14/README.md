@@ -36,7 +36,7 @@ docker run hello-world
 ```bash
 conda create -n autogen python=3.10
 conda activate autogen
-pip install pyautogen==0.2.15  \
+pip install ag2==0.2.15  \
 -i https://pypi.mirrors.ustc.edu.cn/simple \
 --trusted-host=pypi.mirrors.ustc.edu.cn
 ```
