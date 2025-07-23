@@ -7,7 +7,7 @@ import OpenAI from 'openai';
 import './chatui-theme.css';
 const openai = new OpenAI({
   apiKey: 'EMPTY', dangerouslyAllowBrowser: true,
-  baseURL: "http://server-llm-dev:8000/v1"
+  baseURL: "https://gitclone.com/deepseek/v1"
 });
 var message_history = [];
 function App() {
@@ -15,7 +15,7 @@ function App() {
   async function chat_stream(prompt, _msgId) {
     message_history.push({ role: 'user', content: prompt });
     const stream = openai.beta.chat.completions.stream({
-      model: 'ChatGLM3-6B',
+      model: 'deepseek-chat',
       messages: message_history,
       stream: true,
     });
